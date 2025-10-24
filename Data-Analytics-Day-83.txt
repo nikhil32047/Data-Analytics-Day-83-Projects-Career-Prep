@@ -1,0 +1,81 @@
+ Projects & Career Preparation
+
+🔹 Lesson 1: End-to-End Data Analytics Project
+=================================================
+Summary:
+Work on a full project from raw data to dashboard.
+Steps:
+---------
+Collect dataset (e.g., Sales or HR data)
+Clean & preprocess using Python (Pandas)
+Analyze with SQL queries
+Build dashboard using Power BI / Tableau
+Present insights
+
+Example:
+🏪 Sales Performance Analysis: “Revenue grew 15% YoY, but customer retention dropped 7%.”
+
+Video: End-to-End Data Analytics Project – 20 mins
+
+
+🔹 Lesson 2: KPI & Business Metrics
+=======================================
+Summary:
+Key Performance Indicators measure success in any business domain.
+Examples:
+----------
+Sales: Revenue, Conversion Rate
+Marketing: ROI, CTR, CAC
+HR: Attrition Rate, Employee Productivity
+
+Example:
+A marketing campaign had a CTR = 8% and ROI = 210%, marking it as highly effective.
+
+Video: Business Metrics Explained – 10 mins
+
+
+🔹 Lesson 3: Power BI / Tableau Dashboard
+=============================================
+Summary:
+Create interactive dashboards to tell a story.
+Use slicers, filters, and charts
+Highlight KPIs at the top
+Use color coding for insights
+
+Example:
+Power BI dashboard showing:
+📈 Top 5 products driving 60% of total revenue.
+
+Video: Power BI Dashboard Tutorial – 15 mins
+
+
+🔹 Lesson 4: Resume Building for Data Analysts
+=================================================
+Summary:
+Make your resume project- and skill-focused.
+Add tools: Python, SQL, Power BI, Excel
+Highlight projects & metrics
+Use action verbs (Analyzed, Built, Designed)
+
+Example:
+“Designed a Power BI dashboard to track sales KPIs — reduced manual reporting time by 40%.”
+
+Video: Data Analyst Resume Tips – 12 mins
+
+
+🔹 Lesson 5: Mock Interview Preparation
+===========================================
+Summary:
+Prepare for real interview questions:
+SQL Joins & Queries
+Data Cleaning Techniques
+Explain your projects & insights clearly
+Be confident explaining business impact
+
+Example:
+Q: What was your biggest challenge in a project?
+A: “Handling missing values and inconsistent formats before visualization.”
+
+Video: Data Analyst Interview Questions – 18 mins
+
+
